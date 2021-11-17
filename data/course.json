@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9d4e01b3-4b4c-2a7c-d029-1908830f1e2d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Advanced Igneous Petrology",
+  "course_description": "Advanced Igneous Petrology covers the history of and recent developments in the study of igneous rocks. Students review the chemistry and structure of igneous rock-forming minerals and proceed to study how these minerals occur and interact in igneous rocks. The course focuses on igneous processes and how we have learned about them through studying a number of significant sites worldwide.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.490",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
